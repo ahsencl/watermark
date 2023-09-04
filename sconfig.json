@@ -1,0 +1,16 @@
+{
+    "text": "System:\nUser Name: ahsen\nSystem: Windows\nNode Name: DESKTOP-P4J1SBA\nRelease: 10\nVersion: 10.0.19045\nMachine: AMD64\nProcessor: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel\n\nMemory (GB):\nTotal: 12\nAvailable: 5\nUsed: 7\nPercent: 56.6\n\nDisk (GB):\nC:\\: {'Total': 111, 'Used': 98, 'Free': 14, 'Percent': 87.8}\nD:\\: {'Total': 466, 'Used': 41, 'Free': 425, 'Percent': 8.8}\nF:\\: {'Total': 465, 'Used': 331, 'Free': 134, 'Percent': 71.2}\n\nNetwork:\nTotal Bytes Sent: 6014540\nTotal Bytes Received: 54198919",
+    "main_image_path": "image.jpg",
+    "output_path": "sonuc.jpg",
+    "position": [
+        23,
+        23
+    ],
+    "font_size": 300,
+    "color": [
+        146,
+        235,
+        86,
+        146
+    ]
+}
